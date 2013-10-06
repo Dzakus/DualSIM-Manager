@@ -1,0 +1,7 @@
+<resources>
+
+    <style name="ThemeDialog" parent="android:Theme.Holo.Light.Dialog"></style>
+
+    <style name="Theme" parent="android:Theme.Holo.Light.DarkActionBar"></style>
+
+</resources>
